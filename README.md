@@ -25,7 +25,6 @@ to model training, evaluation, and comparison.
      - Logistic Regression
      - Decision Tree
      - Random Forest
-     - K-Nearest Neighbors (KNN)
 
 4. **Model Evaluation**
    - Used `accuracy_score` as the primary evaluation metric.
